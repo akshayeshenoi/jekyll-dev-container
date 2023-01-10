@@ -1,0 +1,7 @@
+# Jekyll VSCode Dev Container
+
+Works with the vscode Dev Container extension.
+
+Clone the repo, install the extension, and run the `Dev Containers: Reopen in Container` command.
+
+Then clone the jekyll website source code inside the container to continue development. Standard jekyll commands should work.
